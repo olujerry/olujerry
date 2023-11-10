@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @olujerry
-- 👀 I’m interested in ..Data Science, MAchine Learning.
-- 🌱 I’m currently learning ..Machine LEarning.
-- 💞️ I’m looking to collaborate on .Machine Learning Projects..
+- 👋 Hi, I am Oluseye Jeremiah
+- 👀 I’m interested in ..Data Science, Machine Learning.
+- 🌱 I’m currently learning ..Machine Learning.
+- 💞️ I’m looking to collaborate on . Machine Learning Projects..
 - 📫 How to reach me .oluseyejeremiah@gmail.com..
 
 <!---
